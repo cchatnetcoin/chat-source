@@ -3,6 +3,20 @@ Chat development tree
 
 Chat is a PoS-based cryptocurrency.
 
+Cryopto-Chat Official  Website: https://www.crypto-chat.net/
+
+Block Time :  64 seconds
+
+Block reward: 100 Chat
+
+Last PoW block:    block 2000
+
+PoS :    25% per year
+
+RPC port:    11028
+
+P2P port:    11027
+
 Development process
 ===========================
 
